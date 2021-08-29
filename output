@@ -1,0 +1,320 @@
+The list of words(L) is: ['hippopotamus', 'horse', 'loon', 'snake', 'cat', 'dinosaur', 'b', 'jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj', 'a', 'xx']
+
+Trying to add the word: hippopotamus
+
+
+Trying to add the word: horse
+addVertical: True
+
+
+Trying to add the word: loon
+addHorizontal: True
+
+
+Trying to add the word: snake
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: cat
+no matching letter
+addHorizontal: False
+addVertical: True
+
+
+Trying to add the word: dinosaur
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: b
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+reaches outside grid
+addVertical: False
+reaches outside grid
+addHorizontal: False
+
+
+Trying to add the word: a
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: xx
+no matching letter
+addVertical: False
+no matching letter
+addHorizontal: False
+
+ 01234567890123456789
+ ____________________
+|                    |0
+|                    |1
+|                    |2
+|                    |3
+|                    |4
+|                    |5
+|                    |6
+|               h    |7
+|           c loon   |8
+|           a   r    |9
+|    hippopotamus    |10
+|               e    |11
+|                    |12
+|                    |13
+|                    |14
+|                    |15
+|                    |16
+|                    |17
+|                    |18
+|                    |19
+
+ ____________________
+ 01234567890123456789
+
+The list of words(L) is: ['Hippopotomonstrosesquippedaliophobia', 'rattlesnake', 'hhhhhhhhhhhhhhhhhhhhh', 'top', 'snake', 'noodles', 'hippopotamus', 'hello', 'jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj', 'soccer', 'greetings', 'surname', 'jail', 'fire', 'cat', 'firetruck', 'blackcat', 'smile', 'naked', 'star', 'sun', 'toilet', 'great', 'greedy', 'dark', 'marrow', 'spoiled', 'light', 'darker', 'near', 'on', 'a', 'arrow', 'wars']
+
+Trying to add the word: Hippopotomonstrosesquippedaliophobia
+reaches outside grid
+
+
+Trying to add the word: rattlesnake
+
+
+Trying to add the word: hhhhhhhhhhhhhhhhhhhhh
+reaches outside grid
+addHorizontal: False
+reaches outside grid
+addVertical: False
+
+
+Trying to add the word: top
+addVertical: True
+
+
+Trying to add the word: snake
+illegal adjacencies
+addHorizontal: False
+addVertical: True
+
+
+Trying to add the word: noodles
+illegal adjacencies
+addVertical: False
+addHorizontal: True
+
+
+Trying to add the word: hippopotamus
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: hello
+addVertical: True
+
+
+Trying to add the word: jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+reaches outside grid
+addHorizontal: False
+reaches outside grid
+addVertical: False
+
+
+Trying to add the word: soccer
+illegal adjacencies
+addVertical: False
+addHorizontal: True
+
+
+Trying to add the word: greetings
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: surname
+addVertical: True
+
+
+Trying to add the word: jail
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: fire
+illegal adjacencies
+addVertical: False
+addHorizontal: True
+
+
+Trying to add the word: cat
+illegal adjacencies
+addHorizontal: False
+addVertical: True
+
+
+Trying to add the word: firetruck
+addVertical: True
+
+
+Trying to add the word: blackcat
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: smile
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: naked
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: star
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: sun
+illegal adjacencies
+addHorizontal: False
+addVertical: True
+
+
+Trying to add the word: toilet
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: great
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: greedy
+illegal adjacencies
+addVertical: False
+addHorizontal: True
+
+
+Trying to add the word: dark
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: marrow
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: spoiled
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: light
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: darker
+illegal adjacencies
+addHorizontal: False
+addVertical: True
+
+
+Trying to add the word: near
+illegal adjacencies
+addVertical: False
+addHorizontal: True
+
+
+Trying to add the word: on
+addHorizontal: True
+
+
+Trying to add the word: a
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+
+Trying to add the word: arrow
+illegal adjacencies
+addHorizontal: False
+illegal adjacencies
+addVertical: False
+
+
+Trying to add the word: wars
+illegal adjacencies
+addVertical: False
+illegal adjacencies
+addHorizontal: False
+
+ 01234567890123456789
+ ____________________
+|         s  d       |0
+|         u  a       |1
+|     h fire r f     |2
+| soccer  n  k i     |3
+| u a l near e r     |4
+|on t l   m greedy   |5
+|    noodles   t     |6
+|          n   r     |7
+|          a   u     |8
+|          k   c     |9
+|     rattlesnake    |10
+|       o            |11
+|       p            |12
+|                    |13
+|                    |14
+|                    |15
+|                    |16
+|                    |17
+|                    |18
+|                    |19
+
+ ____________________
+ 01234567890123456789
+
